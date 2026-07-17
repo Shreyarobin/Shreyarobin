@@ -10,10 +10,10 @@
 
 ### 🚀 About Me
 
-- 🎓 B.Tech in Computer Science, Information Security specialization @ **PES University**, Bangalore (2023 – 2027)
-- 💼 Software Engineering Intern (AI R&D) @ **Fortunesoft IT Innovations**, building CareStack — an AI-enhanced practice management system for NZ aged residential care
-- 🎙️ President, **MUNSoc PESU ECC** · Secretary General, **UniCon 2026**
-- Tech Head, **Nexus AWS Cloud Club** 
+- 🎓 B.Tech in Computer Science @ **PES University**, Bangalore (2023 – 2027)
+- 💼 Building **CareStack** — an AI-enhanced practice management system for NZ aged residential care — as a Software Engineering Intern (AI R&D) @ **Fortunesoft IT Innovations**
+- 🎙️ President, **MUNSoc PESU ECC** and Secretary General of **UniCon 2026**
+- ☁️ Tech Head, **Nexus AWS Cloud Club**
 
 ---
 
