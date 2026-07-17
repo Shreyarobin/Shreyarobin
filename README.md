@@ -71,6 +71,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 </p>
 
----
-
-<p align="center"><i>⚡ Currently building CareStack at Fortunesoft, and CloudGuard on the side</i></p>
+ ---
