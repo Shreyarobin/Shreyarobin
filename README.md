@@ -3,7 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shreya-robin-702479346/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shreya-robin-702479346/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shreyalizbethrobin@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/_shreyaaaaaah_/?hl=en"><img src="https://img.shields.io/badge/Instagram-C13584?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
@@ -70,3 +72,5 @@
 </p>
 
 ---
+
+<p align="center"><i>⚡ Currently building CareStack at Fortunesoft, and CloudGuard on the side</i></p>
