@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shreyarobin&label=Profile%20Views&color=D8B4FE&style=flat" alt="profile views" />
   <a href="https://www.linkedin.com/in/shreya-robin-702479346/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
 
@@ -13,9 +12,8 @@
 
 - 🎓 B.Tech in Computer Science, Information Security specialization @ **PES University**, Bangalore (2023 – 2027)
 - 💼 Software Engineering Intern (AI R&D) @ **Fortunesoft IT Innovations**, building CareStack — an AI-enhanced practice management system for NZ aged residential care
-- 🤖 Trained an XGBoost deterioration-risk model on ~790K patient-hour records (0.699 AUROC) and built CareAssist, a ChromaDB + Groq RAG assistant with a human-in-the-loop safety router
-- 🔐 Also building CloudGuard, an AWS misconfiguration scanner covering 25+ CIS Benchmark checks across S3, IAM, and EC2/VPC
-- 🎙️ President, **MUNSoc PESU ECC** · Tech Head, **Nexus AWS Cloud Club** · Secretary General, **UniCon 2026**
+- 🎙️ President, **MUNSoc PESU ECC** · Secretary General, **UniCon 2026**
+- Tech Head, **Nexus AWS Cloud Club** 
 
 ---
 
