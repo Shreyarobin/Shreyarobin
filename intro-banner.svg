@@ -42,7 +42,7 @@
   </text>
 
   <text x="400" y="105" text-anchor="middle" font-family="Fira Code, monospace" font-size="16" fill="#e0e7ff" opacity="0">
-    Fluent in Python, English, and PowerShell rage
+    Fluent in Python and C
     <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.75;0.77;0.98;1" dur="12s" repeatCount="indefinite"/>
   </text>
 
