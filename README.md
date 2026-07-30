@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./ascii.svg" width="460" alt="Shreya Robin"/>
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/Shreyarobin/Shreyarobin/main/intro-banner.svg" width="100%" alt="intro banner"/>
 </p>
 
@@ -8,16 +12,14 @@
   <a href="https://www.instagram.com/_shreyaaaaaah_/?hl=en"><img src="https://img.shields.io/badge/Instagram-C13584?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="./ascii.svg" width="460" alt="Shreya Robin"/>
-</p>
-
 ---
 
 ### 🚀 About Me
 
 - 🎓 B.Tech in Computer Science @ **PES University**, Bangalore (2023 – 2027)
-- 💼 Building **CareStack** — an AI-enhanced practice management system for NZ aged residential care — as a Software Engineering Intern (AI R&D) @ **Fortunesoft IT Innovations**
+- 💼 Software Engineering Intern (AI R&D) @ **Fortunesoft IT Innovations**
+- 📘 Teaching Assistant, **PES University** — Internet of Things
+- 📘 Teaching Assistant, **PES University** — Software Engineering
 - 🎙️ President, **MUNSoc PESU ECC** and Secretary General of **UniCon 2026**
 - ☁️ Tech Head, **Nexus AWS Cloud Club**
 
