@@ -8,6 +8,10 @@
   <a href="https://www.instagram.com/_shreyaaaaaah_/?hl=en"><img src="https://img.shields.io/badge/Instagram-C13584?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <img src="./ascii.svg" width="460" alt="Shreya Robin"/>
+</p>
+
 ---
 
 ### 🚀 About Me
@@ -71,4 +75,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 </p>
 
- ---
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
+</p>
+
+<p align="center">
+  <img src="./streak.svg" width="620" alt="Current and longest streak"/>
+  <img src="./langs.svg" width="620" alt="Top languages by bytes and by repo"/>
+  <img src="./year.svg" width="620" alt="The year, one character per day"/>
+</p>
+
+---
