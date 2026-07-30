@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./ascii.svg" width="460" alt="Shreya Robin"/>
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/Shreyarobin/Shreyarobin/main/intro-banner.svg" width="100%" alt="intro banner"/>
 </p>
 
